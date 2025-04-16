@@ -29,8 +29,8 @@ Display the predictions and evaluation metrics.
 Program to implement linear regression model for predicting car prices and test assumptions.
 
 ## Program:
-Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: SAMAKASH R S
+Program to implement linear regression model for predicting car prices and test assumptions.<br>
+Developed by: SAMAKASH R S<br>
 RegisterNumber:  212223230182
 ```python
 import pandas as pd
